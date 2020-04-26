@@ -1,0 +1,22 @@
+{
+  "name": "create-top-navbar",
+  "version": "1.0.0",
+  "description": "Function returns a navbar as a HTML element",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barrysweeney/create-top-navbar.git"
+  },
+  "keywords": [
+    "navbar"
+  ],
+  "author": "Barry Sweeney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barrysweeney/create-top-navbar/issues"
+  },
+  "homepage": "https://github.com/barrysweeney/create-top-navbar#readme"
+}
